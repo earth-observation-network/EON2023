@@ -1,91 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hannameyer.github.io/EON2023/index.html</loc>
-    <lastmod>2023-09-13T11:03:57.588Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/mc_session/mc4.html</loc>
-    <lastmod>2023-09-13T11:02:46.010Z</lastmod>
-  </url>
-  <url>
     <loc>https://hannameyer.github.io/EON2023/Machine_Learning_Session/ML_AOA.html</loc>
-    <lastmod>2023-09-13T11:15:13.787Z</lastmod>
+    <lastmod>2023-09-13T12:55:26.253Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hannameyer.github.io/EON2023/index.html</loc>
+    <lastmod>2023-09-13T12:55:26.649Z</lastmod>
   </url>
   <url>
     <loc>https://hannameyer.github.io/EON2023/paul_tutorial/02_ValidationDataCollection.html</loc>
-    <lastmod>2023-09-13T10:07:42.686Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/mc_session/mc1.html</loc>
-    <lastmod>2023-09-13T10:05:06.205Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/mc_session/mc3.html</loc>
-    <lastmod>2023-09-13T11:01:51.997Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/base/faq.html</loc>
-    <lastmod>2023-09-05T09:11:32.302Z</lastmod>
+    <lastmod>2023-09-13T11:53:36.507Z</lastmod>
   </url>
   <url>
     <loc>https://hannameyer.github.io/EON2023/paul_tutorial/01_TrainingDataCollection.html</loc>
-    <lastmod>2023-09-13T11:02:45.226Z</lastmod>
+    <lastmod>2023-09-13T12:53:02.079Z</lastmod>
   </url>
   <url>
-    <loc>https://hannameyer.github.io/EON2023/slides/slide1.html</loc>
-    <lastmod>2023-09-13T10:00:54.427Z</lastmod>
+    <loc>https://hannameyer.github.io/EON2023/mc_session/mc3.html</loc>
+    <lastmod>2023-09-13T12:52:06.703Z</lastmod>
   </url>
   <url>
-    <loc>https://hannameyer.github.io/EON2023/slides/slidelist.html</loc>
-    <lastmod>2023-09-13T10:00:55.078Z</lastmod>
+    <loc>https://hannameyer.github.io/EON2023/mc_session/mc1.html</loc>
+    <lastmod>2023-09-13T11:55:08.820Z</lastmod>
   </url>
   <url>
-    <loc>https://hannameyer.github.io/EON2023/assessment/en-git-more.html</loc>
-    <lastmod>2023-09-05T15:26:21.226Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/assessment/git-more.html</loc>
-    <lastmod>2023-09-05T15:26:21.478Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/assessment/learnr_app-2.html</loc>
-    <lastmod>2023-09-05T15:26:21.734Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/assessment/slidelist.html</loc>
-    <lastmod>2023-09-05T15:26:22.074Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/base/impressum.html</loc>
-    <lastmod>2023-09-05T15:26:40.948Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/base/about.html</loc>
-    <lastmod>2023-09-05T15:26:41.200Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/modules/en-git-module.html</loc>
-    <lastmod>2023-09-05T15:26:41.480Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/modules/de-git-module.html</loc>
-    <lastmod>2023-09-05T15:26:42.892Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/modules/slidelist.html</loc>
-    <lastmod>2023-09-05T15:26:43.188Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/templates/allformats-odt-docx-examples.html</loc>
-    <lastmod>2023-09-13T11:01:52.797Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/templates/journals-examples-default.html</loc>
-    <lastmod>2023-09-13T11:01:53.701Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hannameyer.github.io/EON2023/templates/slides-template.html</loc>
-    <lastmod>2023-09-13T10:01:03.091Z</lastmod>
+    <loc>https://hannameyer.github.io/EON2023/mc_session/mc4.html</loc>
+    <lastmod>2023-09-13T12:47:11.444Z</lastmod>
   </url>
 </urlset>

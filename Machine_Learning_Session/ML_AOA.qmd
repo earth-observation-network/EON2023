@@ -3,11 +3,13 @@ title: "Machine learning for remote sensing applications"
 subtitle: "Mapping the MarburgOpenForest"
 author: "Hanna Meyer"
 date: "09/08/2022"
-
+format: html
+engine: knitr
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+mapview::mapviewOptions(legend.opacity = 0.9)
 ```
 
 

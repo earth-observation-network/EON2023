@@ -13,7 +13,7 @@ editor:
   markdown: 
     wrap: 72
 editor_options: 
-  chunk_output_type: inline
+  chunk_output_type: console
 ---
 
 ::: {#image-heading}
@@ -65,7 +65,7 @@ Qualitative terms that can be used for this are: "near", "far" or "in
 the neighborhood of". Representation and data-driven analysis require
 these terms to be objectified and operationalized. So, this metric must
 be based on a distance concept, e.g. Euclidean distance or travel times.
-In a second interpretative step, we must decide which units define thismapview::mapviewOptions(legend.opacity = 0.5)
+In a second interpretative step, we must decide which units define this
 type of proximity. In terms of the objective of a question, there are
 only suitable and less-suitable measures; there is no correct or
 incorrect. Therefore, it is critical to define a meaningful neighborhood
@@ -302,7 +302,7 @@ library("data.table")
 library("mapview")
 library(stars)
 library(gstat)
-mapview::mapviewOptions(legend.opacity = 0.9)
+
 # create a string containing the current working directory
 wd=paste0(find_rstudio_root_file(),"/mc_session/data/")
 

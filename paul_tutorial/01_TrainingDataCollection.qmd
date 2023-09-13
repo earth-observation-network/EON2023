@@ -24,7 +24,6 @@ library(mapview)
 library(kableExtra)
 library(rmarkdown)
 library("rprojroot")
-mapview::mapviewOptions(legend.opacity = 0.9)
 ```
 
 # Data sets

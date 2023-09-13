@@ -43,6 +43,7 @@ library(CAST)
 library(tmap)
 library(rprojroot)
 
+
 # create a string containing the current working directory
 wd = paste0(find_rstudio_root_file(),"/Machine_Learning_Session/data/")
 

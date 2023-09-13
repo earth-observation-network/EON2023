@@ -9,7 +9,7 @@ engine: knitr
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-mapview::mapviewOptions(legend.opacity = 0.9)
+
 ```
 
 
@@ -44,7 +44,7 @@ library(sf)
 library(CAST)
 library(tmap)
 library(rprojroot)
-
+mapview::mapviewOptions(legend.opacity = 0.9)
 # create a string containing the current working directory
 wd = paste0(find_rstudio_root_file(),"/Machine_Learning_Session/data/")
 

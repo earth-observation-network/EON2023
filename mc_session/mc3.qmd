@@ -322,8 +322,8 @@ fnDTM = paste0(wd,"copernicus_DEM.tif")
 # Weather Data adapt if you download a new file 
 # https://www.ecowitt.net/home/index?id=20166)
 # https://www.ecowitt.net/home/index?id=149300
-fn_dataFC29 = paste0(wd,"all_GW1000A-WIFIFC29(202308270000-202308292319).xlsx")
-fn_dataDB2F =paste0(wd,"all_GW1000A-WIFIDB2F(202308270000-202308292219).xlsx")
+fn_dataFC29 = paste0(wd,"all_GW1000A-WIFIFC29.xlsx")
+fn_dataDB2F =paste0(wd,"all_GW1000A-WIFIDB2F.xlsx")
 
 # station data as derived by the field group
 fn_pos_data= paste0(wd,"stations_prelim.shp")
@@ -454,11 +454,12 @@ k <- krige(A20230829220000 ~ altitude, m, st_as_stars(DTM),
 plot(k)
 
 crs(voronoi)=crs
+v=sf::st_as_sf(voronoi)
 # map it
 mapview(raster(interpNN) ,col=rainbow(25)) + 
  mapview( raster(interpIDW),col=rainbow(25)) + 
-  mapview(k,col=rainbow(25))+
-   sf::st_as_sf(voronoi) 
+  mapview(k,col=rainbow(25))+ v
+   
 ```
 
 ### Kriging with the relation to the DGM
